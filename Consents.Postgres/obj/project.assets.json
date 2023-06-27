@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wann/Development/RiderProjects/Consents/PostgresConnector/PostgresConnector.csproj",
-      "projectName": "PostgresConnector",
-      "projectPath": "/home/wann/Development/RiderProjects/Consents/PostgresConnector/PostgresConnector.csproj",
+      "projectUniqueName": "/home/wann/Development/RiderProjects/Consents/Consents.Postgres/Consents.Postgres.csproj",
+      "projectName": "Consents.Postgres",
+      "projectPath": "/home/wann/Development/RiderProjects/Consents/Consents.Postgres/Consents.Postgres.csproj",
       "packagesPath": "/home/wann/.nuget/packages/",
-      "outputPath": "/home/wann/Development/RiderProjects/Consents/PostgresConnector/obj/",
+      "outputPath": "/home/wann/Development/RiderProjects/Consents/Consents.Postgres/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wann/.nuget/NuGet/NuGet.Config"

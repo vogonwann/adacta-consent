@@ -2,6 +2,6 @@ namespace Consents.Data;
 
 public interface IConnection
 {
-    bool Connect();
-    
+    bool Create();
+    void Destroy();
 }

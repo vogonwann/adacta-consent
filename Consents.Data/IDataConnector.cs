@@ -5,5 +5,6 @@ namespace Consents.Data;
 /// </summary>
 public interface IDataConnector<TConnection>
 {
+    TConnection Connection { get; set; }
     bool Connect();
 }

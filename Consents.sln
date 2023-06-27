@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Data", "Consents.D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataConnectors", "DataConnectors", "{CEB10CCA-7867-4C6F-9C7E-B3A78AEB0828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresConnector", "PostgresConnector\PostgresConnector.csproj", "{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Postgres", "Consents.Postgres\Consents.Postgres.csproj", "{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
