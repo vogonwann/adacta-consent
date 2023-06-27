@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wann/Development/RiderProjects/Consents/Consents.Web/Consents.Web.csproj": {}
+    "/home/wann/Development/adacta/adacta-consent/Consents.Web/Consents.Web.csproj": {}
   },
   "projects": {
-    "/home/wann/Development/RiderProjects/Consents/Consents.Web/Consents.Web.csproj": {
+    "/home/wann/Development/adacta/adacta-consent/Consents.Web/Consents.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wann/Development/RiderProjects/Consents/Consents.Web/Consents.Web.csproj",
+        "projectUniqueName": "/home/wann/Development/adacta/adacta-consent/Consents.Web/Consents.Web.csproj",
         "projectName": "Consents.Web",
-        "projectPath": "/home/wann/Development/RiderProjects/Consents/Consents.Web/Consents.Web.csproj",
+        "projectPath": "/home/wann/Development/adacta/adacta-consent/Consents.Web/Consents.Web.csproj",
         "packagesPath": "/home/wann/.nuget/packages/",
-        "outputPath": "/home/wann/Development/RiderProjects/Consents/Consents.Web/obj/",
+        "outputPath": "/home/wann/Development/adacta/adacta-consent/Consents.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wann/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/share/dotnet/sdk/7.0.305/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,7 +6,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Data", "Consents.D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataConnectors", "DataConnectors", "{CEB10CCA-7867-4C6F-9C7E-B3A78AEB0828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Postgres", "Consents.Postgres\Consents.Postgres.csproj", "{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.DataConnectors.Postgres", "Consents.DataConnectors.Postgres\Consents.DataConnectors.Postgres.csproj", "{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.DataConnectors.MariaDb", "Consents.DataConnectors.MariaDb\Consents.DataConnectors.MariaDb.csproj", "{11151E52-F690-4903-9833-DE63B81AD347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Common", "Consents.Common\Consents.Common.csproj", "{D2F5DAF6-C424-4488-973E-32D3C76C218C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,8 +30,17 @@ Global
 		{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11151E52-F690-4903-9833-DE63B81AD347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11151E52-F690-4903-9833-DE63B81AD347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11151E52-F690-4903-9833-DE63B81AD347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11151E52-F690-4903-9833-DE63B81AD347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F5DAF6-C424-4488-973E-32D3C76C218C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F5DAF6-C424-4488-973E-32D3C76C218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F5DAF6-C424-4488-973E-32D3C76C218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F5DAF6-C424-4488-973E-32D3C76C218C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AD3F7D38-7955-49F9-B2D8-C30260A89B5C} = {CEB10CCA-7867-4C6F-9C7E-B3A78AEB0828}
+		{11151E52-F690-4903-9833-DE63B81AD347} = {CEB10CCA-7867-4C6F-9C7E-B3A78AEB0828}
 	EndGlobalSection
 EndGlobal

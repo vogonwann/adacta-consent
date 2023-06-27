@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "QjuRJq0jWLXaLlX5rqHts7IcmyPwJFHsfv932pdMjOoAJcrzKV8Q0l7jOIumIUZTs/qn6mdMGMg1w+Z4HPMTOw==",
+  "dgSpecHash": "UoHbqQWQ3JeSxIAgelf+IgEVSP+HGrUDKBQdry/wLKvLmivmWKdcskja/fsmBO0gOIFG6LXOKaLnafoSVKa2SQ==",
   "success": true,
-  "projectFilePath": "/home/wann/Development/RiderProjects/Consents/Consents.Data/Consents.Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/wann/Development/adacta/adacta-consent/Consents.Data/Consents.Data.csproj",
+  "expectedPackageFiles": [
+    "/home/wann/.nuget/packages/microsoft.entityframeworkcore/7.0.8/microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.8/microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.8/microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

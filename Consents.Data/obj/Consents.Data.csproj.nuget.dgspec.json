@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/wann/Development/RiderProjects/Consents/Consents.Data/Consents.Data.csproj": {}
+    "/home/wann/Development/adacta/adacta-consent/Consents.Data/Consents.Data.csproj": {}
   },
   "projects": {
-    "/home/wann/Development/RiderProjects/Consents/Consents.Data/Consents.Data.csproj": {
+    "/home/wann/Development/adacta/adacta-consent/Consents.Data/Consents.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/wann/Development/RiderProjects/Consents/Consents.Data/Consents.Data.csproj",
+        "projectUniqueName": "/home/wann/Development/adacta/adacta-consent/Consents.Data/Consents.Data.csproj",
         "projectName": "Consents.Data",
-        "projectPath": "/home/wann/Development/RiderProjects/Consents/Consents.Data/Consents.Data.csproj",
+        "projectPath": "/home/wann/Development/adacta/adacta-consent/Consents.Data/Consents.Data.csproj",
         "packagesPath": "/home/wann/.nuget/packages/",
-        "outputPath": "/home/wann/Development/RiderProjects/Consents/Consents.Data/obj/",
+        "outputPath": "/home/wann/Development/adacta/adacta-consent/Consents.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wann/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }
