@@ -532,7 +532,8 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Consents.Data >= 1.0.0"
+      "Consents.Data >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 7.0.8"
     ]
   },
   "packageFolders": {
@@ -575,6 +576,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.8, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
