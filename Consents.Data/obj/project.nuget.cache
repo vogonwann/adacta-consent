@@ -1,19 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "UoHbqQWQ3JeSxIAgelf+IgEVSP+HGrUDKBQdry/wLKvLmivmWKdcskja/fsmBO0gOIFG6LXOKaLnafoSVKa2SQ==",
+  "dgSpecHash": "szoOM6Ro//1365ujJBK6NjVBitoVzFXoICiOoctSxSVcwTgHBpR+9fr8rY/MLlR5SR2KWG/c1e/3RrdAK6MnOA==",
   "success": true,
   "projectFilePath": "/home/wann/Development/adacta/adacta-consent/Consents.Data/Consents.Data.csproj",
   "expectedPackageFiles": [
     "/home/wann/.nuget/packages/microsoft.entityframeworkcore/7.0.8/microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.8/microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.8/microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.apidescription.server/7.0.8/microsoft.extensions.apidescription.server.7.0.8.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "/home/wann/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "/home/wann/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/home/wann/.nuget/packages/microsoft.extensions.options/7.0.1/microsoft.extensions.options.7.0.1.nupkg.sha512",
     "/home/wann/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
   ],
   "logs": []
