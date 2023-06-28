@@ -6,12 +6,12 @@ public class ConsentDbContext: DbContext
 {
     private readonly string _connectionString;
 
-    public ConsentDbContext(string connectionString, ConsentDbType)
+    public ConsentDbContext(string connectionString)
     {
         _connectionString = connectionString;
     }
 
-    public override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         
     }
