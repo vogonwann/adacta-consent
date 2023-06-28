@@ -28,16 +28,23 @@ nupkg/
 
 # Build results
 [Dd]ebug/
+debug/
 [Dd]ebugPublic/
+debugPublic/
 [Rr]elease/
+release/
 [Rr]eleases/
+releases/
 x64/
 x86/
 build/
 bld/
 [Bb]in/
+bin/
 [Oo]bj/
+obj/
 [Oo]ut/
+out/
 msbuild.log
 msbuild.err
 msbuild.wrn
