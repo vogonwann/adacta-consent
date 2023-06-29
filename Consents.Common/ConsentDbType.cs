@@ -2,6 +2,10 @@
 
 public enum ConsentDbType
 {
-    MsSql = 0,
-    PostgreSql
+    SqlServer = 0,
+    PostgreSql,
+    MariaDb,
+    MySql,
+    Oracle,
+    MongoDb
 }

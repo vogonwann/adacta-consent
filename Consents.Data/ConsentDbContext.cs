@@ -1,18 +1,17 @@
+using Consents.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Consents.Data;
 
-public class ConsentDbContext: DbContext
+public class ConsentDbContext: DbContext, IConsentDbContext
 {
-    private readonly string _connectionString;
-
-    public ConsentDbContext(string connectionString)
+    public ConsentDbContext(DbContextOptions<ConsentDbContext> options): base(options)
     {
-        _connectionString = connectionString;
     }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    public DbSet<Consent?> Consents { get; set; }
+    public void SaveChanges()
     {
-        
+        base.SaveChanges();
     }
 }

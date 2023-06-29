@@ -4,11 +4,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Web", "Consents.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Data", "Consents.Data\Consents.Data.csproj", "{76BA930F-098C-4B93-8559-7E1B9C74E32D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataConnectors", "DataConnectors", "{CEB10CCA-7867-4C6F-9C7E-B3A78AEB0828}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataContexts", "DataContexts", "{CEB10CCA-7867-4C6F-9C7E-B3A78AEB0828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.DataConnectors.Postgres", "Consents.DataConnectors.Postgres\Consents.DataConnectors.Postgres.csproj", "{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.DataContexts.Postgres", "Consents.DataContexts.Postgres\Consents.DataContexts.Postgres.csproj", "{AD3F7D38-7955-49F9-B2D8-C30260A89B5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.DataConnectors.MariaDb", "Consents.DataConnectors.MariaDb\Consents.DataConnectors.MariaDb.csproj", "{11151E52-F690-4903-9833-DE63B81AD347}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.DataContexts.MariaDb", "Consents.DataContexts.MariaDb\Consents.DataContexts.MariaDb.csproj", "{11151E52-F690-4903-9833-DE63B81AD347}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consents.Common", "Consents.Common\Consents.Common.csproj", "{D2F5DAF6-C424-4488-973E-32D3C76C218C}"
 EndProject
